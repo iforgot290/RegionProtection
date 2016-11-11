@@ -1,0 +1,9 @@
+/target
+/bin
+/.classpath
+/.project
+/.settings
+
+#JRebel
+/src/rebel.xml
+/src/rebel-remote.xml

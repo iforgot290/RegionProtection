@@ -1,0 +1,7 @@
+name: Protection
+version: 0.1
+main: me.neildennis.protection.Protection
+depend: [WorldGuard,WorldEdit]
+commands:
+  prot:
+    usage: /<command>
